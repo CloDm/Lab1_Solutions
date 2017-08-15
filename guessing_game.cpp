@@ -1,3 +1,4 @@
+//Exercise 2.1
 #include <iostream>
 #include <ctime> // time for seeding srand
 #include <cstdlib> //srand & rand 
